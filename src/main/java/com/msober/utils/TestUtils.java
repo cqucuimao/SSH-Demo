@@ -17,6 +17,7 @@ public class TestUtils {
 	 * Export data for the table names by the given IDatabaseConnection into the resultFile.<br>
 	 * The export data will be DBUnit format.
 	 * 
+	 * 
 	 * @param conn	数据库连接
 	 * @param tableNameList	数据库表名列表
 	 * @param resultFile	生成的文件地址
